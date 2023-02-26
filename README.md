@@ -40,15 +40,9 @@
 
 ### 🤝 Some of the technologies I have worked with:
 ![Redis-DC382D](https://user-images.githubusercontent.com/58957076/220757523-ea97d992-a4be-4170-aa22-618bbd39cb3d.svg)
-![-C-A8B9CC](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![-C#-239120](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![-C++-00599C](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![-Dart-0175C2](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![-Lua-2C2D72](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![-.NET-512BD4](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![-PostgreSQL-336791](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![-MongoDB-47A248](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![-Rust-DEA584](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=000000)
 ![-Firebase-FFCA28](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 ![-Supabase-0E5A8A](https://img.shields.io/badge/Supabase-0E5A8A?style=for-the-badge&logo=supabase&logoColor=white)
 
