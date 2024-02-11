@@ -1,9 +1,7 @@
 ## Hey 👋, I'm Alessandro
 
-- 🔭   I am currently working on an **innovative telegram bot**
-- 📚   I’m currently learning Java, React
 - 💪   I love exploring new tech stack and building cool stuffs.
-- 📫   Feel free to ping me on <a href='https://telegram.me/peggiorincubo'>Telegram</a> & <a href='https://telegram.me/peggiorincubo'>Linkedin</a>
+- 📫   Feel free to ping me on <a href='https://telegram.me/peggiorincubo'>Telegram</a> or <a href='https://telegram.me/peggiorincubo'>Linkedin</a>
 
 
 ### 🔨 Languages, Tools and Environments i use:
