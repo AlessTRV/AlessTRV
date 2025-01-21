@@ -1,9 +1,7 @@
 
-## Hey 👋, I'm Ale
+## 👋, Ale
 
-- 🌱   I love exploring new tech stack and building cool stuffs.
-- 📫   Feel free to ping me on <a href='https://telegram.me/peggiorincubo'>Telegram</a> or <a href='https://telegram.me/peggiorincubo'>Linkedin</a>
-
+- <a href='https://telegram.me/peggiorincubo'>Telegram</a>
 
 ### 🔨 Languages, Tools and Environments i use:
 ![-Python-3776AB](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
